@@ -11,12 +11,12 @@ public class MultiArray {
 
         String[] seatA = {"A1", "A2", "A3", "A4", "A5"};
         String[] seatB = {"B1", "B2", "B3", "B4", "B5"};
-        String[] seatC = {"C1", "C2", "C3", "AC", "C5"};
+        String[] seatC = {"C1", "C2", "C3", "C4", "C5"};
 
         String[][] seats = new String[][] {
                  {"A1", "A2", "A3", "A4", "A5"},
                  {"B1", "B2", "B3", "B4", "B5"},
-                 {"C1", "C2", "C3", "AC", "C5"}
+                 {"C1", "C2", "C3", "C4", "C5"}
         };
         //B3출력
         System.out.println(seats[1][2]);
@@ -27,7 +27,7 @@ public class MultiArray {
         String[][] seats2 = {
                 {"A1", "A2", "A3"},
                 {"B1", "B2", "B3", "B4"},
-                {"C1", "C2", "C3", "AC", "C5"}
+                {"C1", "C2", "C3", "C4", "C5"}
         };
         System.out.println(seats2[1][1]);
 

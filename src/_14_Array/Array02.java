@@ -7,7 +7,8 @@ public class Array02 {
         String[] countries = {"Hungary", "Croatia", "Slovenia", "Austria", "Czech"};
 //        // 반복문 for문을 통해 배열 순회
 //        for (int i = 0; i< countries.length; i++) {
-//            System.out.println(countries[i]);
+//            System.out.println(countries[i]); }
+
 
 
         // enhanced for (for-each) 향상된 for문
