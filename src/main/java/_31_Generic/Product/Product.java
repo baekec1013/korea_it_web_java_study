@@ -1,6 +1,5 @@
 package _31_Generic.Product;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
@@ -8,5 +7,5 @@ import lombok.Data;
 @Data
 public class Product<T> {
     private String productName;
-    private T Product;
+    private T productInfo;
 }
