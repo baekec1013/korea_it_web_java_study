@@ -1,5 +1,7 @@
 package _31_Generic.Wildcard.UpperBoundedWildcard;
 
+import _31_Generic.Wildcard.UnBoundedWildcard.Box;
+
 import java.util.Date;
 
 public class Main {

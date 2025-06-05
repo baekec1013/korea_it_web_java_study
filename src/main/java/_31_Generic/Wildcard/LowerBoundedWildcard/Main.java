@@ -8,6 +8,6 @@ public class Main {
 
         SuperWildcard.putDog(animalBox);   // OK
         SuperWildcard.putDog(dogBox);
-        SuperWildcard.putDog(malteseBox);
+//        SuperWildcard.putDog(malteseBox);
     }
 }

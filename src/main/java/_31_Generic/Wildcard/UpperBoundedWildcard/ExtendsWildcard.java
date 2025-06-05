@@ -1,5 +1,7 @@
 package _31_Generic.Wildcard.UpperBoundedWildcard;
 
+import _31_Generic.Wildcard.UnBoundedWildcard.Box;
+
 public class ExtendsWildcard {
     //<? extends Animal>
     //Dog, Cat, Animal등 Animal을 상속한 모든 타입을 받을 수 있다.
